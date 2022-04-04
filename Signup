@@ -1,0 +1,15 @@
+public class Addition {
+
+	public static void main(String[] args) {
+		
+		int a=10;
+	    int  b=30;
+		float c=40.5f;
+		
+		float sub= (a+b)-c;
+		System.out.println("sub of three number "+sub);
+		
+		
+		
+
+	}
